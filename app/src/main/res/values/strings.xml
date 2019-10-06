@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor</string>
-    <string name="title1" >"I"</string>
-    <string name="title2" >"Am"</string>
-    <string name="title3" >"very PooR!"</string>
+    <string name="image_name">image_Coal</string>
+    <string name="titleOnTopOfScreen" >"I am Poor!! haha"</string>
 </resources>
